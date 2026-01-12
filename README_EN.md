@@ -50,7 +50,7 @@ A lightweight modern terminal tool built with Tauri + React + TypeScript. Design
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/konnect.git
+   git clone https://github.com/TaylorChen/konnect.git
    cd konnect
    ```
 
